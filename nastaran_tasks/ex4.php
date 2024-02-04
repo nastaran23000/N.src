@@ -37,9 +37,6 @@
     </form>
 
     
-
-
-
     <h2>4.4:  Multiplication Table:</h2>
     <form method="post" action="process3.php">
         <label for="number">Enter a number:</label>

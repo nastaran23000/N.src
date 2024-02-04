@@ -12,6 +12,7 @@ include 'header.php';
     Use the echo statement to print “Hello [Firstname] [Lastname], You are welcome to my site.” inside an h3 tag.
     Table & Form Guide</h2>
 
+    
 <div class="container mt-3">
     <form method="post" action="process.php">
         <div class="form-group">

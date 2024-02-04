@@ -21,4 +21,5 @@
         echo "</table>";
     }
     ?>
+    
 <?php include 'footer.php' ?>
