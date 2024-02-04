@@ -9,7 +9,8 @@
         // Get the number from the form
         $number = $_POST['number'];
 
-        // Print the multiplication table for the given number
+        // Print 
+        
         echo "<h3>Multiplication Table of $number:</h3>";
         echo "<table border='1'>";
         for ($i = 1; $i <= 10; $i++) {
