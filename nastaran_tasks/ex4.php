@@ -70,6 +70,7 @@ if (isset($_POST['submit'])) {
 }
   ?>
 
+
     <form method="post" action="process4.php">
         Enter a number: <input type="text" name="number"><br>
         <input type="submit" name="submit" value="Print Numbers">
