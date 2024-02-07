@@ -1,6 +1,7 @@
 <?php
 $title = "Exercise 7";
 
+
 include 'header.php' ?>
         <h2>Input your information</h2>
         <form action="/submit" method="post">
