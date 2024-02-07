@@ -1,6 +1,7 @@
 <?php
 $title = " index.php";
 include 'header.php' ?>
+
         <h2>Input your information</h2>
         <form action="/submit" method="post">
             <div class="form-group">
