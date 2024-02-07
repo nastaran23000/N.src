@@ -19,6 +19,7 @@ include 'header.php' ?>
                 <label for="city">City:</label>
                 <input type="text" class="form-control" id="city" name="city" required>
             </div>
+            
             <button type="submit" class="btn btn-primary">Submit</button>
         </form>
     </div>
@@ -27,5 +28,4 @@ include 'header.php' ?>
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 
-    
     <?php include 'footer.php' ?>
